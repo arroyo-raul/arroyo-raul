@@ -12,12 +12,6 @@ Desarrollador Full Stack con experiencia en JavaScript, HTML, CSS, Python y Reac
 ![](https://nirzak-streak-stats.vercel.app/?user=arroyo-raul&theme=github_dark_dimmed&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arroyo-raul&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=arroyo-raul&theme=github_dark_dimmed&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=arroyo-raul&limit=5&theme=github_dark_dimmed&combine_all_yearly_contributions=true)
 
